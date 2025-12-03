@@ -56,13 +56,13 @@ The goal is to build accurate models capable of identifying galaxy types based o
 
 ## 📁 Repository Structure
 ├── data/<br>
-│ └── sdss_galaxy_data.csv
+│ └── sdss_galaxy_data.csv<br>
 ├── notebooks/<br>
-│ └── SDSS_Galaxy_Classification.ipynb
+│ └── SDSS_Galaxy_Classification.ipynb<br>
 ├── src/<br>
-│ ├── preprocessing.py
-│ ├── models.py
-│ ├── evaluation.py
+│ ├── preprocessing.py<br>
+│ ├── models.py<br>
+│ ├── evaluation.py<br>
 ├── results/<br>
 │ └── plots/<br>
 └── README.md
